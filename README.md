@@ -4,7 +4,7 @@
 
 [RegistryApp](https://registry-demo.netlify.app/) built using Angular and Firebase, showcases a modern and efficient registration system tailored for conference events. The primary features and components of the application include:
 ### Features
-   - #### User Registration: Allows participants to sign up for conferences, providing personal details, contact information, and preferences.
+   - * User Registration *: Allows participants to sign up for conferences, providing personal details, contact information, and preferences.
 
    - Event Management: Organizers can create, update, and manage events, including scheduling sessions, assigning speakers, and setting up venues.
 
