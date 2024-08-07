@@ -28,3 +28,5 @@ This application was made and is maintained by [Thulani Mpofu](https://github.co
 
 
 #  Billio App
+
+[Billio app](https://billio-web.netlify.app/) is a personal finance manager that allows users to easily calculate and track of your monthly bills and expenses. With a simple and intuitive interface, users can input and categorize their expenses, set budgets, and view detailed reports of their spending habits. 
