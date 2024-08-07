@@ -1,4 +1,4 @@
-#  NewsApp
+#  RegistryWebApp
 
 ### App description
 
